@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gamereact/static/css/main.e131e0ac.css",
-    "main.js": "/gamereact/static/js/main.782a432e.js",
+    "main.js": "/gamereact/static/js/main.2eab6743.js",
     "static/js/488.acc5e906.chunk.js": "/gamereact/static/js/488.acc5e906.chunk.js",
     "index.html": "/gamereact/index.html",
     "main.e131e0ac.css.map": "/gamereact/static/css/main.e131e0ac.css.map",
-    "main.782a432e.js.map": "/gamereact/static/js/main.782a432e.js.map",
+    "main.2eab6743.js.map": "/gamereact/static/js/main.2eab6743.js.map",
     "488.acc5e906.chunk.js.map": "/gamereact/static/js/488.acc5e906.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e131e0ac.css",
-    "static/js/main.782a432e.js"
+    "static/js/main.2eab6743.js"
   ]
 }
