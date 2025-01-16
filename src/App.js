@@ -11,7 +11,7 @@ function App() {
         ['🦁', '👑', '🌟', '💪', '✨', '❤', '😱', '😍'],
         ['🐯', '🌸', '👑', '✨', '🌷', '💎', '⭐', '🦋'],
       ],
-      answer: ['Sorriso', 'Pizza', 'Filme', 'Leaon', 'Kiara'],
+      answer: ['Sorriso', 'Pizza', 'Filme', 'Leon', 'Kiara'],
       maxEmojis: 8,
     },
     medium: {
@@ -93,7 +93,7 @@ function App() {
           type="text"
           value={userGuess}
           onChange={handleGuessChange}
-          placeholder="Qual é a frase?"
+          placeholder="Qual é a palavra?"
         />
         <button className="submit-btn" onClick={handleSubmit}>
           Responder
